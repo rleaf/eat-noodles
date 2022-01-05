@@ -7,7 +7,7 @@ export
 tsconfig.json
 tslint.json
 node_modules
-images
+/images
 *.ts
 *.tsx
 Dockerfile
