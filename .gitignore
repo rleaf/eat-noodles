@@ -8,6 +8,8 @@ tsconfig.json
 tslint.json
 node_modules
 /images
+/bin
+/models
 *.ts
 *.tsx
 Dockerfile
